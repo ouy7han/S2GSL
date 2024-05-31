@@ -13,7 +13,7 @@ CUDA_VISIBLE_DEVICES=0 python3 -u ../train.py \
 	--data_name laptop \
 	--batch_size 16 \
 	--alpha 0.1 \
-	--beta 0.35 \
+	--beta 0.5 \
 	--input_dropout 0.2 \
 	--layer_dropout 0.1 \
 	--gcn_dropout 0.1 \
