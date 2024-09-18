@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@connect.westc.gpuhub.com:36840 password (2)" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="car2">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/opt/ouy/S2GSL" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="car3">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/opt/ouy/s2gsl" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westc.gpuhub.com:36840 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_925" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westc.gpuhub.com:36840 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/opt/ouy/s2gsl" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.yza1.seetacloud.com:11942 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/opt/ouy/S2GSL-main" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.yza1.seetacloud.com:30366 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_182" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

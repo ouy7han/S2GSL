@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="388b0b87-29aa-4268-8612-df241952d732" name="car2">
+        <fileTransfer accessType="SFTP" host="connect.yza1.seetacloud.com" port="30366" sshConfigId="e5ae394f-6bf4-4df4-ae1d-49aa0e324e85" sshConfig="root@connect.yza1.seetacloud.com:30366 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="37265297-75a0-4309-8002-6e4c2f8d6978" name="car3">
+        <fileTransfer accessType="SFTP" sshConfigId="f2d1c281-c551-4de2-a332-c2f46418d503" sshConfig="root@connect.westc.gpuhub.com:36840 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
