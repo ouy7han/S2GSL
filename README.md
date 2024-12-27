@@ -1,7 +1,7 @@
 # S2GSL
 
 
-This repository contains Pytorch implementation for "S2GSL: Incorporating Segment to Syntactic Enhanced Graph Structure Learning for Aspect-based Sentiment Analysis" 
+This repository contains Pytorch implementation for "S2GSL: Incorporating Segment to Syntactic Enhanced Graph Structure Learning for Aspect-based Sentiment Analysis" （ACL2024）
 
 
 
